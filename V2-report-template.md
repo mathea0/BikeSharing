@@ -6,8 +6,6 @@
 I did not have any difficulties submitting the initial training. 
 
 ### What was the top ranked model that performed?
-The last model with the tuned hyperparameters.
-
 Using the fit_summary and leaderboard:
 The best model for the training run was KNeighborsDist
 For the additional feature, the best model was WeightedEnsemble_L2
